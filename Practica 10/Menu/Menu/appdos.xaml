@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Menu.appdos"
+             Title="appdos">
+    <VerticalStackLayout Padding="20" Spacing="20">
+        <Label x:Name="ContadorLabel"
+               Text="Presiona el botón"
+               FontSize="32"
+               HorizontalOptions="Center" />
+        <Button Text="Iniciar Cuenta Regresiva"
+                Clicked="OnButtonClicked" />
+    </VerticalStackLayout>
+</ContentPage>
