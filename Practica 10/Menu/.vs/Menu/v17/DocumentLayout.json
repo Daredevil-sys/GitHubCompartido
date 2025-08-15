@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|c:\\users\\admin\\desktop\\practica 10\\menu\\menu\\appuno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|solutionrelative:menu\\appuno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|c:\\users\\admin\\desktop\\practica 10\\menu\\menu\\appuno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|solutionrelative:menu\\appuno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|c:\\users\\admin\\desktop\\practica 10\\menu\\menu\\appcuatro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|solutionrelative:menu\\appcuatro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|c:\\users\\admin\\desktop\\practica 10\\menu\\menu\\appcinco.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|solutionrelative:menu\\appcinco.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|c:\\users\\admin\\desktop\\practica 10\\menu\\menu\\appdos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|solutionrelative:menu\\appdos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|c:\\users\\admin\\desktop\\practica 10\\menu\\menu\\appcuatro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|solutionrelative:menu\\appcuatro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|c:\\users\\admin\\desktop\\practica 10\\menu\\menu\\appdos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|solutionrelative:menu\\appdos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|c:\\users\\admin\\desktop\\practica 10\\menu\\menu\\apptres.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|solutionrelative:menu\\apptres.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|c:\\users\\admin\\desktop\\practica 10\\menu\\menu\\apptres.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9084B457-7726-4AC2-ADFA-778197A47F04}|Menu\\Menu.csproj|solutionrelative:menu\\apptres.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appuno.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\appuno.xaml.cs",
+              "RelativeDocumentMoniker": "Menu\\appuno.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\appuno.xaml.cs",
+              "RelativeToolTip": "Menu\\appuno.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T19:23:24.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appcuatro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\appcuatro.xaml.cs",
+              "RelativeDocumentMoniker": "Menu\\appcuatro.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\appcuatro.xaml.cs",
+              "RelativeToolTip": "Menu\\appcuatro.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T01:50:46.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appdos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\appdos.xaml.cs",
+              "RelativeDocumentMoniker": "Menu\\appdos.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\appdos.xaml.cs",
+              "RelativeToolTip": "Menu\\appdos.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T22:34:42.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appcinco.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\appcinco.xaml.cs",
+              "RelativeDocumentMoniker": "Menu\\appcinco.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\appcinco.xaml.cs",
+              "RelativeToolTip": "Menu\\appcinco.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T22:27:10.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "apptres.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\apptres.xaml.cs",
+              "RelativeDocumentMoniker": "Menu\\apptres.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\apptres.xaml.cs",
+              "RelativeToolTip": "Menu\\apptres.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T22:26:10.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appcuatro.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\appcuatro.xaml",
+              "RelativeDocumentMoniker": "Menu\\appcuatro.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\appcuatro.xaml",
+              "RelativeToolTip": "Menu\\appcuatro.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-10T21:42:18.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "apptres.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\apptres.xaml",
+              "RelativeDocumentMoniker": "Menu\\apptres.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\apptres.xaml",
+              "RelativeToolTip": "Menu\\apptres.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-10T21:41:58.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appdos.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\appdos.xaml",
+              "RelativeDocumentMoniker": "Menu\\appdos.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\appdos.xaml",
+              "RelativeToolTip": "Menu\\appdos.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-10T21:41:32.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appuno.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\appuno.xaml",
+              "RelativeDocumentMoniker": "Menu\\appuno.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Practica 10\\Menu\\Menu\\appuno.xaml",
+              "RelativeToolTip": "Menu\\appuno.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-10T21:40:48.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
