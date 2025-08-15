@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabos\\OneDrive\\Desktop\\Equipo\\numerodelunoalcien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA69B6-A4D8-459E-AED3-2D96E6083B4F}|numerodelunoalcien\\numerodelunoalcien.csproj|c:\\users\\fabos\\onedrive\\desktop\\equipo\\numerodelunoalcien\\numerodelunoalcien\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2BBA69B6-A4D8-459E-AED3-2D96E6083B4F}|numerodelunoalcien\\numerodelunoalcien.csproj|solutionrelative:numerodelunoalcien\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA69B6-A4D8-459E-AED3-2D96E6083B4F}|numerodelunoalcien\\numerodelunoalcien.csproj|c:\\users\\fabos\\onedrive\\desktop\\equipo\\numerodelunoalcien\\numerodelunoalcien\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBA69B6-A4D8-459E-AED3-2D96E6083B4F}|numerodelunoalcien\\numerodelunoalcien.csproj|solutionrelative:numerodelunoalcien\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fabos\\OneDrive\\Desktop\\Equipo\\numerodelunoalcien\\numerodelunoalcien\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "numerodelunoalcien\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\fabos\\OneDrive\\Desktop\\Equipo\\numerodelunoalcien\\numerodelunoalcien\\MainPage.xaml.cs",
+              "RelativeToolTip": "numerodelunoalcien\\MainPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T20:04:45.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\fabos\\OneDrive\\Desktop\\Equipo\\numerodelunoalcien\\numerodelunoalcien\\MainPage.xaml",
+              "RelativeDocumentMoniker": "numerodelunoalcien\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\fabos\\OneDrive\\Desktop\\Equipo\\numerodelunoalcien\\numerodelunoalcien\\MainPage.xaml",
+              "RelativeToolTip": "numerodelunoalcien\\MainPage.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-08T20:02:52.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
